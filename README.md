@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Analytics
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about Dentistry
-- 📫 How to reach me: manishahyndavi@gmail.com
+- 📫 How to reach me: [Gmail](mailto:manishahyndavi@gmail.com "manishahyndavi@gmail.com") 
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: Sky is pink
