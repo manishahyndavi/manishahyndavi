@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Driven by a passion for both data analysis and healthcare, I bring a unique blend of skills to my work, drawing from a background in dental science and current studies in Health Informatics
 - 🤔 Loves to solve complex problems in diverse domains
 - ⚡ I'm excited to collaborate with like-minded individuals on GitHub, exploring opportunities to apply data analysis techniques to address real-world healthcare challenges and drive positive change in the industry
-- 📫 How to reach me: [Gmail](mailto:manishahyndavi@gmail.com "manishahyndavi@gmail.com") 
+- 📫 How to reach me: [Gmail](mailto:manishahyndavi@gmail.com "manishahyndavi@gmail.com")
+- ![manishahyndavi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishahyndavi&theme=dark&show_icons=true&hide_border=false&layout=compact)
