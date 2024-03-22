@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m an aspiring Data Analyst with a unique background in Dental Science
+- 🔭 I’m an aspiring Data Analyst with a unique background in Dental Sciences
 - 🌱 I am currently working as a Data Analyst for Rutgers School of Health Professions while pursuing Masters
 - 👯 I have an expertise in Python, SQL, SAS, R, ML, NLP, Tableau, Microsoft Excel
 - 💬 Passionate about continuous learning, I am highly motivated to embark on personal projects, driven by my curiosity to explore and master new skills.
