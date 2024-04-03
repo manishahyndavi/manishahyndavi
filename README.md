@@ -1,39 +1,43 @@
-# Hi there <img src="resources/waveHand.gif" width="30px" height="30px" />
+# Hi there! <img src="resources/waveHand.gif" width="30px" height="30px" /> I'm Manisha Hyndavi
 
-<!--
-**manishahyndavi/manishahyndavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate data enthusiast currently pursuing a master's degree in Health Informatics. With a background in Dental Surgery and 2 years of experience as a Data Analyst, I bring a unique blend of healthcare expertise and analytical skills to the table.
 
-Here are some ideas to get you started:
--->
+## 🔍 About Me
 
-My name is [Manisha](https://www.linkedin.com/in/manishahyndavi/) :smile:. (Fun fact about this part of my name: Manisa or Manisha are two English transliterations of the Sanskrit noun Manīṣā. In most locations, the word Manisha means 'praise'.).
+- 🎓 Pursuing a master's degree in Health Informatics.
+- 💼 2 years of experience as a Data Analyst.
+- 🦷 Bachelor's degree in Dental Surgery.
 
-I am an upcoming Masters in Health Informatics student.
+## 💻 What I Do
 
----
+I specialize in:
+- 📊 Data Analysis
+- 📈 Data Visualization
+- 🧠 Drawing insights from data
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Programming :computer:
-- 👯 I’m looking to collaborate on Data Analytics
-- 🤔 I’m looking for help with Python 
-- 💬 Ask me about Dentistry :tooth:
-- 📫 How to reach me: [Gmail](mailto:manishahyndavi@gmail.com "manishahyndavi@gmail.com") :email:
-- 😄 Pronouns: She/ Her
-- ⚡ Fun fact: The sky is pink! :laughing:
+## 🌱 My Interests
 
----
+I'm passionate about:
+- 🏥 Healthcare Informatics
+- 🖌️ Data Visualization
 
-#### Programming Languages and Tools
-<!-- Programming languages -->
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
+## 👩‍💻 Skills
 
-<!-- IDE -->
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- Source Code Management - Version control -->
-<!-- <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+## <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="30px"> GitHub Stats
 
-<!-- Markup languages -->
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishahyndavi&theme=github_dark&show_icons=true&hide_border=true&layout=compact"  width="49.5%" alt="GitHub streak stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manishahyndavi&show_icons=true&hide_border=true&theme=github_dark"  width="49.5%" alt="GitHub stats"/>
+</p>
+
+## 📫 Get in Touch
+
+Feel free to connect with me via email at [Gmail](mailto:msafarookhi@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/manishahyndavi/)!
+
+Let's collaborate and make data speak for itself!
+
+<p align="center">
+<img src="resources/swimming_dog.gif" height="300 px" />
+</p>
