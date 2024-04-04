@@ -18,7 +18,7 @@ I specialize in:
 ## 🌱 My Interests
 
 I'm passionate about:
-- 🏥 Healthcare Informatics
+- 🏥 Problem Solving
 - 🖌️ Data Visualization
 
 ## 👩‍💻 Skills
