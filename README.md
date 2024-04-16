@@ -7,6 +7,7 @@ I'm a passionate data enthusiast currently pursuing a master's degree in Health 
 - 🎓 Pursuing a master's degree in Health Informatics.
 - 💼 2 years of experience as a Data Analyst.
 - 🦷 Bachelor's degree in Dental Surgery.
+- 🏥 Health Finance and accounting.
 
 ## 💻 What I Do
 
